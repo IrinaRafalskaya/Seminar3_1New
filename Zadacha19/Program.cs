@@ -1,4 +1,6 @@
-﻿int num, rem, sum = 0, temp;
+﻿//Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом
+
+int num, rem, sum = 0, temp;
     Console.Write("Введите число: ");
     num = Convert.ToInt32(Console.ReadLine());
     temp = num;
