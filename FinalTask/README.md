@@ -8,8 +8,7 @@
 * После присвоения увеличивается переменная count на 1 и возвращается к циклу for в котором i увеличивается на 1. 
 * И так проверяется до конца.
 
-![avatar](https://disk.yandex.ru/i/MO-ftNI02sXmHA)
-
+![Блок-схема](https://user-images.githubusercontent.com/112489111/195558107-1b55486a-1ca3-4a52-8579-e50fd8608afd.jpg)
 
 
 
